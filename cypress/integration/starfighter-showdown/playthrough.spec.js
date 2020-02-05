@@ -1,4 +1,4 @@
-describe('Starfighter Showdown - Intro', () => {
+describe('Starfighter Showdown - Playthrough', () => {
     before(() => {
         cy.clearLocalStorage();
         cy.clearCookies();
